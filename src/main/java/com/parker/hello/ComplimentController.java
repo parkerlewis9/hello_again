@@ -12,7 +12,7 @@ public class ComplimentController {
 
     private Compliment[] compliments = {
             new Compliment("You look nice today"),
-            new Compliment("Your code is awesome"),
+            new Compliment("Hi Maggie :)"),
             new Compliment("I hope you have a great day!")
 
     };
